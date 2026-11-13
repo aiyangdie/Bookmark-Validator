@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/33-Bookmark-Validator.jpg" alt="Bookmark-Validator 项目封面" width="100%"></p>
+
 # 🔖 Bookmark-Validator
 
 **一键检测浏览器书签存活状态，快速清理失效链接。**
